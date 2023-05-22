@@ -1,4 +1,4 @@
-## A few points to keep in mind about images.
+## A few points to keep in mind about images
 
 ### Adding Images and Diagrams
 

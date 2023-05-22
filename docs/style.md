@@ -1,4 +1,4 @@
-## Knowing your audience will help you write better.
+## Knowing your audience will help you write better
 
 ### Your Audience
 

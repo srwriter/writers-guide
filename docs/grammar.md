@@ -1,5 +1,5 @@
 
-## A well-written and structured document makes all the difference in getting your point across to readers.
+## A well-written and structured document makes all the difference in getting your point across to readers
 
 ### Punctuation
 - Commas
