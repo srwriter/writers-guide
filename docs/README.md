@@ -2,5 +2,7 @@
 
 > A general style guide for writing technical docs.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Writing technical documentation is a great way to keep track of changes to your project. 
+
+Tech docs can get complex, the more features you document, so keep this style guide handy to help you write your docs.
 
