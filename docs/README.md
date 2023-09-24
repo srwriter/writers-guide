@@ -1,8 +1,9 @@
-# Writing Style Guide
+# Technical Documents Writing Guide
 
-> A general style guide for writing technical docs.
+> A general reference guide for writing your docs.
 
-Writing technical documentation is a great way to keep track of changes to your project. 
+A simple guide to help you create the outline of your technical docs - whether its for your team or your own project. 
 
-Tech docs can get complex, the more features you document, so keep this style guide handy to help you write your docs.
+
+
 
