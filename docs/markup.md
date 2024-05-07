@@ -8,7 +8,7 @@ Technical documents are often written in Markdown to simplify repurposing conten
 
 # Heading 
 
-You can learn markdown from these sources:
+Here are some resources to learn Markdown:
 
 * [Markdown Guide](https://www.markdownguide.org/)
 * [Gitlab's markdown guide](https://about.gitlab.com/handbook/markdown-guide/)
